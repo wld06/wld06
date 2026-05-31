@@ -1,5 +1,7 @@
 <h1 align="center">Hey there!</h1>
 
+**Full Stack Developer** | AI Passionate 
+
 ###
 
 <div align="center">
